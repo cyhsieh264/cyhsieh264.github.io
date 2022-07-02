@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CY LifeNote</title>
+    <link>https://cyhsieh264.github.io/</link>
+    <description>Recent content on CY LifeNote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2022 08:41:10 +0800</lastBuildDate><atom:link href="https://cyhsieh264.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://cyhsieh264.github.io/posts/second-post/</link>
+      <pubDate>Sat, 02 Jul 2022 08:41:10 +0800</pubDate>
+      
+      <guid>https://cyhsieh264.github.io/posts/second-post/</guid>
+      <description>CY LifeNote Second Post! (for test)</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://cyhsieh264.github.io/about/</link>
+      <pubDate>Fri, 01 Jul 2022 04:55:31 +0800</pubDate>
+      
+      <guid>https://cyhsieh264.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://cyhsieh264.github.io/posts/first-post/</link>
+      <pubDate>Fri, 01 Jul 2022 04:55:31 +0800</pubDate>
+      
+      <guid>https://cyhsieh264.github.io/posts/first-post/</guid>
+      <description>CY LifeNote First Post! (for test)</description>
+    </item>
+    
+  </channel>
+</rss>
