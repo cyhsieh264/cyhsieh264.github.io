@@ -6,32 +6,24 @@
     <description>Recent content on CY LifeNote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 08:41:10 +0800</lastBuildDate><atom:link href="https://cyhsieh264.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 15:04:05 +0800</lastBuildDate><atom:link href="https://cyhsieh264.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Post</title>
-      <link>https://cyhsieh264.github.io/posts/second-post/</link>
-      <pubDate>Sat, 02 Jul 2022 08:41:10 +0800</pubDate>
-      
-      <guid>https://cyhsieh264.github.io/posts/second-post/</guid>
-      <description>CY LifeNote Second Post! (for test)</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>https://cyhsieh264.github.io/about/</link>
-      <pubDate>Fri, 01 Jul 2022 04:55:31 +0800</pubDate>
+      <pubDate>Fri, 01 Jul 2022 15:04:05 +0800</pubDate>
       
       <guid>https://cyhsieh264.github.io/about/</guid>
-      <description></description>
+      <description>About Me Hi, I‘m Chia-Yi Hsieh, currently a backend engineer in Taipei. 正式走入後端開發的第二年之際，開始覺得應該有個地方寫點筆記，但其實也知道自己很懶，就期待一下時不時會心血來潮，然</description>
     </item>
     
     <item>
       <title>First Post</title>
       <link>https://cyhsieh264.github.io/posts/first-post/</link>
-      <pubDate>Fri, 01 Jul 2022 04:55:31 +0800</pubDate>
+      <pubDate>Fri, 01 Jul 2022 15:04:05 +0800</pubDate>
       
       <guid>https://cyhsieh264.github.io/posts/first-post/</guid>
-      <description>CY LifeNote First Post! (for test)</description>
+      <description>Test CY LifeNote First Post! (for test)
+test</description>
     </item>
     
   </channel>
